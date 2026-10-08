@@ -279,7 +279,7 @@ Output goes to `dist`. The backend remains a separate Python process on port 800
 
 | Name | Role |
 | --- | --- |
-| Karim Mohamed | Leader |
+| Karim Mohamed | Security Researcher (Leader) |
 | Mohamed Hesham | Penetration Tester (Sub Leader) |
 | Ebrahim Hesham | Penetration Tester (Sub Leader) |
 | mohamed-ebrahim | Penetration Tester |
