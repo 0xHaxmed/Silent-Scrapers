@@ -1,0 +1,55 @@
+ARP Spoofing Attack Lab
+
+Description:
+This lab demonstrates the ARP Spoofing (ARP Poisoning) attack, which is a type of Man-in-the-Middle (MITM) attack on local networks. In this attack, the attacker sends fake ARP messages to the network, associating their MAC address with the IP address of another host (such as the gateway), allowing them to intercept, modify, or block traffic.
+
+Objectives:
+- Understand how ARP works in local networks.
+- Learn how ARP Spoofing can be used to intercept network traffic.
+- Observe the risks of Man-in-the-Middle attacks.
+- Practice detecting and preventing ARP Spoofing.
+
+Vulnerabilities Demonstrated:
+- Man-in-the-Middle (MITM)
+- Network Sniffing
+- Session Hijacking
+
+Lab Steps (Example):
+1. Start the lab environment and ensure you have two virtual machines: Attacker and Victim.
+2. On the attacker machine, use a tool like 'arpspoof' or 'ettercap' to perform ARP Spoofing.
+3. Monitor the network traffic using Wireshark or tcpdump.
+4. Try to hijack a session or capture sensitive data.
+5. Discuss how to detect and prevent such attacks (e.g., static ARP entries, using secure protocols).
+
+Note:
+This lab is for educational purposes only. Always perform such activities in a controlled and authorized environment.
+
+-----------------------------
+
+شرح مختصر (بالعربي):
+
+معمل هجوم ARP Spoofing
+
+الوصف:
+هذا المعمل يوضح هجوم ARP Spoofing (أو ARP Poisoning)، وهو نوع من هجمات الرجل في المنتصف (MITM) على الشبكات المحلية. في هذا الهجوم، يقوم المهاجم بإرسال رسائل ARP مزيفة لربط عنوان MAC الخاص به بعنوان IP لجهاز آخر (مثل الراوتر)، مما يسمح له باعتراض أو تعديل أو حجب البيانات.
+
+الأهداف:
+- فهم طريقة عمل بروتوكول ARP في الشبكات المحلية.
+- التعرف على كيفية استغلال ARP Spoofing لاعتراض البيانات.
+- ملاحظة مخاطر هجمات الرجل في المنتصف.
+- التدرب على كشف ومنع هجمات ARP Spoofing.
+
+الثغرات التي يتم توضيحها:
+- Man-in-the-Middle (MITM)
+- Network Sniffing
+- Session Hijacking
+
+خطوات المعمل (مثال):
+1. شغل بيئة المعمل وتأكد من وجود جهازين افتراضيين: المهاجم والضحية.
+2. على جهاز المهاجم، استخدم أداة مثل 'arpspoof' أو 'ettercap' لتنفيذ الهجوم.
+3. راقب حركة الشبكة باستخدام Wireshark أو tcpdump.
+4. حاول اختطاف جلسة أو التقاط بيانات حساسة.
+5. ناقش طرق كشف ومنع هذه الهجمات (مثل استخدام ARP ثابت أو بروتوكولات آمنة).
+
+ملاحظة:
+هذا المعمل لأغراض تعليمية فقط. لا تقم بتنفيذ هذه الهجمات إلا في بيئة آمنة ومصرح بها. 
