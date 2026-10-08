@@ -277,18 +277,17 @@ npm run preview
 
 | الاسم | الدور |
 | --- | --- |
-| karim-tark | Frontend Engineer |
-| Mohamed Hesham | Cybersecurity Specialist |
-| Ebrahim Hesham | Backend Engineer |
-| Karim Mohamed | Security Researcher |
-| mohamed-ebrahim | Full Stack Developer |
-| yossif-ayman | Frontend Engineer |
-| mohamed-elsayed | UI/UX Designer |
-| mostafa-ahmed | Frontend Developer |
-| kerolos-adeb | Frontend Developer |
-| mohamed-ahmed | Frontend Developer |
-| Mostafa Mohie | Cybersecurity Team Member |
-
+| Karim Mohamed | Security Researcher (Leader) |
+| Mohamed Hesham | Penetration Tester (Sub Leader) |
+| Ebrahim Hesham | Penetration Tester (Sub Leader) |
+| mohamed-ebrahim | Penetration Tester |
+| yossif-ayman | Penetration Tester |
+| mohamed-elsayed | SOC Analyst |
+| kerolos-adeb | Frontend Lead |
+| karim-tark | Backend Lead |
+| mostafa-ahmed | Team Member |
+| mohamed-ahmed | Team Member |
+| Mostafa Mohie | Team Member |
 ---
 
 ## المساهمة
